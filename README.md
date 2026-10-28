@@ -110,13 +110,15 @@ Plataforma com ambientes específicos para clínicas, hospitais e atendimento pa
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xumin-ao&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xumin-ao&layout=compact&theme=tokyonight)
+[![GitHub followers](https://img.shields.io/github/followers/xumin-ao?style=for-the-badge&label=Followers&logo=github)](https://github.com/xumin-ao?tab=followers)
+[![GitHub profile](https://img.shields.io/badge/GitHub-Ver%20contribui%C3%A7%C3%B5es-181717?style=for-the-badge&logo=github)](https://github.com/xumin-ao)
 
 </div>
 
-> Os cartões acima dependem de um serviço externo e podem ficar temporariamente indisponíveis.
+🇧🇷 Veja meus repositórios, contribuições e histórico de desenvolvimento diretamente no [meu perfil do GitHub](https://github.com/xumin-ao?tab=repositories).  
+🇺🇸 Explore my repositories, contributions and development activity on [my GitHub profile](https://github.com/xumin-ao?tab=repositories).
+
+> Os cartões externos de estatísticas foram removidos para evitar imagens quebradas. / Unavailable third-party stats cards were removed.
 
 ---
 
