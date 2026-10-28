@@ -1,5 +1,7 @@
 <div align="center">
 
+[![Banner — Júnior Rodrigues, Full Stack Developer](assets/profile/j%C3%BAnior_rodrigues_desenvolvedor_full_stack.png)](https://github.com/xumin-ao/xumin-ao/blob/main/assets/profile/j%C3%BAnior_rodrigues_desenvolvedor_full_stack.png)
+
 # 👋 Olá, eu sou Júnior Rodrigues!
 ### Full Stack Developer • React • Next.js • TypeScript
 
