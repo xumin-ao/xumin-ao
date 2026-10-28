@@ -49,34 +49,59 @@ I'm a **Full Stack Developer based in Brazil**, with hands-on experience buildin
 
 ---
 
-## 💼 Projetos em destaque | Featured Projects
+## 🌟 Projeto em destaque | Featured Project
 
 ### 🏥 RPG Med Gestão — CRM para o setor médico
-**Projeto comercial real | Real-world business application**
 
-Sistema de gestão comercial com foco em organização de processos e acompanhamento de oportunidades.
+**🇧🇷** Sistema de gestão comercial que reúne clientes, visitas, negociações, propostas e configuração comercial de equipamentos médicos em uma única aplicação.
 
-- Gestão de clientes, carteiras e responsáveis comerciais.
-- Registro de visitas e acompanhamentos.
-- Pipeline de propostas e histórico de status.
-- Geração de propostas comerciais em PDF.
-- Dashboards, autenticação e controle de permissões.
+**🇺🇸** Business management platform combining customer records, field visits, sales opportunities, proposals, and medical-equipment sales configuration.
 
-**Tecnologias:** Next.js · React · TypeScript · Supabase · PostgreSQL
+**Stack:** `Next.js` · `React` · `TypeScript` · `Supabase` · `PostgreSQL`
 
-> 🔒 Projeto comercial: detalhes de clientes, credenciais e código confidencial não são divulgados.  
-> 🔒 Commercial project: client information, credentials and confidential code are not shared.
+> [!IMPORTANT]
+> **🇧🇷 AMBIENTE DE DEMONSTRAÇÃO — DADOS FICTÍCIOS.** Todas as informações, nomes, valores, indicadores, cadastros e negociações apresentados nas capturas de tela são dados de teste utilizados exclusivamente para demonstrar o funcionamento do sistema. **Não representam vendas, clientes ou resultados comerciais reais.**
+>
+> **🇺🇸 DEMO ENVIRONMENT — FICTIONAL TEST DATA.** All names, records, figures, metrics and negotiations shown in the screenshots are test data used only to demonstrate the application. **They do not represent actual customers, sales or business results.**
+
+#### 🖥️ Telas e funcionalidades | Screens & Features
+
+| 🇧🇷 Funcionalidade | 🇺🇸 Feature | O que demonstra / What it demonstrates |
+|---|---|---|
+| 📊 **Visão geral** | **Dashboard** | Indicadores comerciais, pendências, negociação e atalhos / Sales KPIs, pending tasks and shortcuts |
+| 👥 **Banco de clientes** | **Customer Management** | Pesquisa, filtros, carteira comercial e histórico / Search, filters, customer ownership and history |
+| 📈 **Propostas** | **Sales Pipeline** | Status, acompanhamento de negociações e próximas ações / Proposal tracking and follow-ups |
+| 📅 **Visitas** | **Field Visits** | Registro estruturado de atividades e resultados / Structured visit and outcome recording |
+| ⚙️ **Configurador comercial** | **Proposal Builder** | Jornada guiada em sete etapas para configuração de propostas / Guided seven-step proposal configuration |
+
+#### 📄 Propostas comerciais em PDF | PDF Proposal Generation
+
+**🇧🇷** Geração automatizada de propostas, com configuração de equipamentos, itens e condições comerciais.
+
+**🇺🇸** Automated PDF proposals containing equipment configuration, included items and commercial terms.
+
+> 🔒 **Confidencialidade / Confidentiality:** O código-fonte comercial e as informações privadas não são compartilhados neste portfólio. / Commercial source code and private business information are not shared in this portfolio.
+
+<!-- Galeria preparada para as cinco capturas após o envio dos arquivos para assets/rpg-med/. -->
+
+---
+
+## 💼 Outros projetos | Other Projects
 
 ### 🚜 AgroCRM — Gestão comercial agrícola
-Projeto de CRM voltado a vendas de máquinas e implementos agrícolas, com foco em organização do funil comercial e propostas.
 
-**Tecnologias:** Next.js · TypeScript · Supabase  
+CRM para vendas de máquinas e implementos agrícolas, com foco em propostas comerciais.  
+*CRM for agricultural equipment sales and proposal workflows.*
+
+**Stack:** Next.js · TypeScript · Supabase  
 **Status:** Em desenvolvimento | In development
 
 ### 🏥 MedJourney — Plataforma de gestão
-Projeto de plataforma com ambientes distintos para atendimento particular, clínicas e hospitais.
 
-**Tecnologias:** Next.js · React · TypeScript · Supabase  
+Plataforma com ambientes específicos para clínicas, hospitais e atendimento particular.  
+*Management platform with dedicated environments for clinics, hospitals and private practices.*
+
+**Stack:** Next.js · React · TypeScript · Supabase  
 **Status:** Em desenvolvimento | In development
 
 ---
