@@ -82,7 +82,42 @@ I'm a **Full Stack Developer based in Brazil**, with hands-on experience buildin
 
 > 🔒 **Confidencialidade / Confidentiality:** O código-fonte comercial e as informações privadas não são compartilhados neste portfólio. / Commercial source code and private business information are not shared in this portfolio.
 
-<!-- Galeria preparada para as cinco capturas após o envio dos arquivos para assets/rpg-med/. -->
+#### 📸 Galeria do sistema | Application Screenshots
+
+> **🇧🇷 Todos os dados e valores exibidos nas imagens abaixo são fictícios e usados exclusivamente para testes e demonstração.**  
+> **🇺🇸 All records, metrics and financial values shown below are fictional test data for demonstration purposes only.**
+
+**1. 📊 Visão geral | Executive Dashboard**
+
+Painel de indicadores, negociações, prioridades e atalhos de operação. / Sales KPIs, opportunities, priorities and quick actions.
+
+[![RPG Med Gestão — Dashboard demonstrativo](assets/rpg-med/dashboard.png)](https://github.com/xumin-ao/xumin-ao/blob/main/assets/rpg-med/dashboard.png)
+
+**2. 👥 Banco de clientes | Customer Management**
+
+Carteira comercial com filtros, indicadores, responsáveis e acesso ao histórico. / Customer portfolio with filters, metrics, ownership and history.
+
+[![RPG Med Gestão — Banco de clientes demonstrativo](assets/rpg-med/clientes.png)](https://github.com/xumin-ao/xumin-ao/blob/main/assets/rpg-med/clientes.png)
+
+**3. 📈 Propostas | Proposal Tracking**
+
+Gestão de propostas, estágios de negociação e acompanhamento comercial. / Sales proposals, negotiation stages and follow-up tracking.
+
+[![RPG Med Gestão — Propostas demonstrativas](assets/rpg-med/propostas.png)](https://github.com/xumin-ao/xumin-ao/blob/main/assets/rpg-med/propostas.png)
+
+**4. 📅 Visitas | Field Visits**
+
+Registro guiado de visitas, equipamentos, motivos e próximos contatos. / Guided visit records, equipment, outcomes and next steps.
+
+[![RPG Med Gestão — Registro de visitas demonstrativo](assets/rpg-med/visitas.png)](https://github.com/xumin-ao/xumin-ao/blob/main/assets/rpg-med/visitas.png)
+
+**5. ⚙️ Configurador comercial | Proposal Builder**
+
+Fluxo de configuração comercial em sete etapas. / Guided seven-step commercial configuration workflow.
+
+[![RPG Med Gestão — Configurador comercial demonstrativo](assets/rpg-med/configurador.png)](https://github.com/xumin-ao/xumin-ao/blob/main/assets/rpg-med/configurador.png)
+
+
 
 ---
 
